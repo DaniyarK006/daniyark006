@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🧑🏻‍💻
 
 - 🚀 I'm currently studying at Astana IT University, and I’m in the process of programming using Java, Python, HTML, CSS, JavaScript
 - 🌱 I’m learning programming and development through Stepik, Coursera, YouTube, and other educational resources
