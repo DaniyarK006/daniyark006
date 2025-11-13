@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-- 🚀 I'm currently studying at Astana IT University, and I’m in the process of programming using Java, Python, HTML, CSS, JavaScript, and Linux systems
-- 🌱 I’m currently learning through platforms like Stepik, Coursera, YouTube, and various other educational pages, focusing on improving my skills and gaining deeper insights into programming and development
-- ⚜️ I’m looking to collaborate on innovative projects that involve web development, software engineering, and creative technology solutions. Whether it's through coding, design, or problem-solving, I’m eager to work with like-minded individuals to bring ideas to life and achieve impactful results
-
+- 🚀 I'm currently studying at Astana IT University, and I’m in the process of programming using Java, Python, HTML, CSS, JavaScript
+- 🌱 I’m learning programming and development through Stepik, Coursera, YouTube, and other educational resources
+- ⚜️ I’m seeking collaboration on innovative web, software, and creative-technology projects. Through coding, design, or problem-solving, I’d love to work with like-minded people to bring ideas to life and achieve impactful results
 <!--
 **DaniyarK006/daniyark006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
